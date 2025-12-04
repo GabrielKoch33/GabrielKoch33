@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on a Website project (🤫...).
+- 🔭
 - 🌱 I’m currently learning Python and SQL.
 - 🤔 Something im exciting to learn is Linux.
 - 📫 How to reach me: IG:: (gabrielkk.s).
