@@ -1,6 +1,6 @@
-# oi, eu sou [nome] 👾
+# oi, eu sou Gabriel 👾
 
-> *"[uma frase sua — curta, honesta, sem formalidade]"*
+> *"não sei o que por aqui :D"*
 
 ---
 
