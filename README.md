@@ -11,7 +11,7 @@
 ---
 
 **estudando agora**  
-`Python` · `estrutura de dados` · `SQL` · `[livro ou curso]` · `UNIDAVI — SI`
+`Python` · `Estrutura de Dados e Algoritmos` · `SQL` · `UNIDAVI — SI`
 
 **interesses**  
 Livros · Video-Game · Estudar
