@@ -14,14 +14,8 @@
 `Python` · `estrutura de dados` · `SQL` · `[livro ou curso]` · `UNIDAVI — SI`
 
 **interesses**  
-[interesse 1] · [interesse 2] · [interesse 3]
+Livros · Video-Game · Estudar
 
 ---
 
-**objetivo**  
-↳ [onde você quer chegar — do seu jeito, sem formalidade]  
-↳ [segundo objetivo ou contexto — opcional]
-
----
-
-[linkedin](https://linkedin.com/in/SEU_USUARIO) · [email](mailto:SEU_EMAIL) · [instagram](https://instagram.com/SEU_USUARIO)
+[linkedin](https://linkedin.com/in/SEU_USUARIO) · [email](mailto:gabrielkochsilva@gmail.com) · [instagram](https://instagram.com/SEU_USUARIO)
