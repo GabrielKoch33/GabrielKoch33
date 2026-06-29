@@ -1,7 +1,7 @@
 # oi, eu sou Gabriel 👾
 
 > *"não sei o que por aqui :D"*
-
+> * cursando Sistemas de Informação*
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -11,10 +11,10 @@
 ---
 
 **estudando agora**  
-`Python` · `Estrutura de Dados e Algoritmos` · `SQL` · `UNIDAVI — SI`
+`Python` · `Estrutura de Dados e Algoritmos` · `SQL` 
 
 **interesses**  
-Livros · Video-Game · Estudar
+Livros · Video-Game · Música
 
 ---
 
