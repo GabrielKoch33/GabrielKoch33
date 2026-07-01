@@ -1,8 +1,8 @@
 # oi, eu sou Gabriel 👾
 
-> *"não sei o que por aqui :D"\n
+> *"não sei o que por aqui :D"
 
-> cursando Sistemas de Informação
+> Cursando: Sistemas de Informação
 
 ---
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
