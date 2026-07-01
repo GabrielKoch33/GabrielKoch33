@@ -1,6 +1,6 @@
 # oi, eu sou Gabriel 👾
 
-> "não sei o que por aqui :D"*
+> *"não sei o que por aqui :D" *
 > cursando Sistemas de Informação
 
 ---
