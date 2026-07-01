@@ -15,4 +15,4 @@
 `Livros` · `Video-Game` · `Música`
 
 ---
-(mailto:gabrielkochsilva@gmail.com) · [instagram](https://instagram.com/SEU_USUARIO)
+mailto:gabrielkochsilva@gmail.com · [instagram](https://instagram.com/gabrielkk.s)
