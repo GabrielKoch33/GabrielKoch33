@@ -9,10 +9,10 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ---
-*estudando agora: *
+*estudando agora*
 `Python` · `Estrutura de Dados e Algoritmos` · `SQL` 
 
-*interesses: *
+*interesses*
 `Livros` · `Video-Game` · `Música`
 
 ---
