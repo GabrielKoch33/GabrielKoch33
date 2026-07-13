@@ -1,9 +1,9 @@
 # oi, eu sou Gabriel 👾
 
-> Alice: — "Pode me dizer, por favor, que caminho devo tomar a partir daqui?"
-> Gato Cheshire: — "Isso depende muito de para onde você quer ir."
-> Alice: — "Eu não me importo muito com..."
-> Gato Cheshire: — "Então não importa que caminho você tome.""
+> Alice: — "Pode me dizer, por favor, que caminho devo tomar a partir daqui?"<br>
+> Gato Cheshire: — "Isso depende muito de para onde você quer ir."<br>
+> Alice: — "Eu não me importo muito com..."<br>
+> Gato Cheshire: — "Então não importa que caminho você tome.""<br>
 
 > Cursando: Sistemas de Informação
 
