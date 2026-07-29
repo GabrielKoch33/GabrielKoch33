@@ -3,7 +3,7 @@
 > Alice: — "Pode me dizer, por favor, que caminho devo tomar a partir daqui?"<br>
 > Gato de Cheshire: — "Isso depende muito de para onde você quer ir."<br>
 > Alice: — "Eu não me importo muito com..."<br>
-> Gato de Cheshire: — "Então não importa que caminho você tome.""<br>
+> Gato de Cheshire: — "Então não importa que caminho você tome."<br>
 
 > Cursando: Sistemas de Informação
 
