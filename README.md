@@ -12,11 +12,11 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ---
-*estudando agora*
-`Java` · `Estrutura de Dados e Algoritmos` · `SQL e Banco de Dados`
+*estudando atualmente: *
+`Java` · `Estrutura de Dados` `Algoritmos` · `SQL` . `Banco de Dados`
 
 *interesses*
 `Livros` · `Jogos de Terror` · `Música`
 
 ---
-mailto:gabrielkochsilva@gmail.com · [instagram](https://instagram.com/gabrielkk.s)
+mailto:gabrielkochsilva@gmail.com · [linkedIn](https://www.linkedin.com/in/gabriel-koch-da-silva-196339367/)
