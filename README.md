@@ -19,4 +19,4 @@
 `Livros` · `Jogos de Terror` · `Música`
 
 ---
-mailto:gabrielkochsilva@gmail.com · [linkedIn](https://www.linkedin.com/in/gabriel-koch-da-silva-196339367/)
+[mailto]:gabrielkochsilva@gmail.com · [linkedIn](https://www.linkedin.com/in/gabriel-koch-da-silva-196339367/)
