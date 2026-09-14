@@ -12,10 +12,10 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ---
-*estudando atualmente: *
+*estudando atualmente:* 
 `Java` · `Estrutura de Dados` `Algoritmos` · `SQL` . `Banco de Dados`
 
-*interesses*
+*interesses:*
 `Livros` · `Jogos de Terror` · `Música`
 
 ---
