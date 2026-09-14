@@ -13,8 +13,8 @@
 
 #### 🚀 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftexchange&logoColor=white)
 
 #### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -26,11 +26,13 @@
 
 ---
 
-📚 **Estudando atualmente:**  
-`Java` · `Estrutura de Dados` · `Algoritmos` · `SQL` · `Banco de Dados`
+### 📚 Estudando atualmente
 
-🎧 **Interesses & Hobbies:**  
-`Livros` · `Jogos de Terror` · `Música`
+![Java](https://img.shields.io/badge/Java-5382A1?style=flat-square&logo=oracle&logoColor=white)
+![Estrutura de Dados](https://img.shields.io/badge/Estrutura_de_Dados-000000?style=flat-square&logo=treehouse&logoColor=white)
+![Algoritmos](https://img.shields.io/badge/Algoritmos-4B0082?style=flat-square&logo=leetcode&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=microsoftexchange&logoColor=white)
+![Banco de Dados](https://img.shields.io/badge/Banco_de_Dados-336791?style=flat-square&logo=databricks&logoColor=white)
 
 ---
 
