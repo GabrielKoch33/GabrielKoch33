@@ -36,10 +36,5 @@
 
 ---
 
-🎧 **Interesses & Hobbies:**  
-`Livros` · `Jogos de Terror` · `Música`
-
----
-
 📫 **Contato & Redes:**  
 ✉️ [gabrielkochsilva@gmail.com](mailto:gabrielkochsilva@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-koch-da-silva-196339367/)
