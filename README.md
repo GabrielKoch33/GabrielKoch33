@@ -5,7 +5,9 @@
 > *"Eu não me importo muito com..."* — Alice  
 > *"Então não importa que caminho você tome."* — Gato de Cheshire  
 
-🎓 **Cursando:** Sistemas de Informação
+---
+
+###🎓 **Cursando:** Sistemas de Informação
 
 ---
 
