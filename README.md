@@ -33,7 +33,6 @@
 ![Java](https://img.shields.io/badge/Java-5382A1?style=flat-square&logo=oracle&logoColor=white)
 ![Estrutura de Dados](https://img.shields.io/badge/Estrutura_de_Dados-000000?style=flat-square&logo=treehouse&logoColor=white)
 ![Algoritmos](https://img.shields.io/badge/Algoritmos-4B0082?style=flat-square&logo=leetcode&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=microsoftexchange&logoColor=white)
 ![Banco de Dados](https://img.shields.io/badge/Banco_de_Dados-336791?style=flat-square&logo=databricks&logoColor=white)
 
 ---
