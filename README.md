@@ -7,7 +7,7 @@
 
 ---
 
-###🎓 **Cursando:** Sistemas de Informação
+### 🎓 **Cursando:** Sistemas de Informação
 
 ---
 
