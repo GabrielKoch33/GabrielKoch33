@@ -7,7 +7,8 @@
 
 ---
 
-### 🎓 **Studying:** Information Systems (EN) - Sistemas de Informação (PT-BR)
+### 🎓 **Studying:**
+Information Systems (EN) - Sistemas de Informação (PT-BR)
 
 ---
 
@@ -37,5 +38,5 @@
 
 ---
 
-📫 **Contact & Social Medias:**  
+📫 **Contact & Social Medias**  
 ✉️ [gabrielkochsilva@gmail.com](mailto:gabrielkochsilva@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-koch-da-silva-196339367/)
