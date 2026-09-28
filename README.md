@@ -7,7 +7,7 @@
 
 ---
 
-### 🎓 **Cursando:** Sistemas de Informação
+### 🎓 **Studying:** Information Systems (EN) - Sistemas de Informação (PT-BR)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-### 📚 Estudando atualmente
+### 📚 Studying in Parallel
 
 ![Java](https://img.shields.io/badge/Java-5382A1?style=flat-square&logo=oracle&logoColor=white)
 ![Estrutura de Dados](https://img.shields.io/badge/Estrutura_de_Dados-000000?style=flat-square&logo=treehouse&logoColor=white)
@@ -37,5 +37,5 @@
 
 ---
 
-📫 **Contato & Redes:**  
+📫 **Contact & Social Medias:**  
 ✉️ [gabrielkochsilva@gmail.com](mailto:gabrielkochsilva@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/gabriel-koch-da-silva-196339367/)
